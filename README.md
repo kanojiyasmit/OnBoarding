@@ -1,6 +1,6 @@
 # Onboarding App
 
-![App Screenshot](screen1.png) <!-- Replace with a screenshot of your app -->
+![App Screenshot](app%20screenshot/screen1.png) 
 
 ## Table of Contents
 
