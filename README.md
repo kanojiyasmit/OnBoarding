@@ -1,6 +1,6 @@
 # Onboarding App
 
-![App Screenshot](app%20screenshot/screen1.png) 
+![App Screenshot](App%20Screenshot/screen1.png) 
 
 ## Table of Contents
 
