@@ -1,6 +1,6 @@
 # Onboarding App
 
-| Image 1                  | Image 2                  | Image 3                  | Image 4                  |
+| Screen 1                  | Screen 2                  | Screen 3                  | Screen 4                  |
 |--------------------------|--------------------------|--------------------------|--------------------------|
 | ![Image 1](App%20Screenshot/screen1.png)| ![Image 2](App%20Screenshot/screen2.png)| ![Image 3](App%20Screenshot/screen3.png)| ![Image 4](App%20Screenshot/screen4.png)|
 
