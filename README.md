@@ -7,8 +7,6 @@
 |--------------------------|--------------------------|
 | ![Image 3](App%20Screenshot/screen3.png) | ![Image 4](App%20Screenshot/screen4.png) |
 
-![App Screenshot]
-
 ## Table of Contents
 
 - [Introduction](#introduction)
